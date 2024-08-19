@@ -1,0 +1,5 @@
+name: 'Super Carnival'
+description: 'Display a message in the build output'
+runs:
+  using: 'node20'
+  main: 'index.js'
